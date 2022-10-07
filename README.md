@@ -16,5 +16,5 @@ What this script does:
 2. Put curly brackets around title, so that they render correctly into PDF.
 3. Remove "and others" (if appeared) from the author list.
 
-Note: this may mess up some words, such as incorrectly changing "fMRI" into "FMRI". So you need to double check the bibtex file, and additional edits if necessary.
+Note: this may mess up some words, such as incorrectly changing "fMRI" into "FMRI". So you need to double check the bibtex file, and make additional edits if necessary.
 
